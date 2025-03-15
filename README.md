@@ -9,7 +9,7 @@ Programming: Python, C++, JavaScript
 
 Embedded Systems: ESP32, microcontrollers, .ASM
 
-Cloud & Infrastructure: Docker, Kubernetes, FIWARE
+Cloud & Infrastructure: Docker, Kubernetes, FIWARE, StarlingX
 
 Mathematics & Physics: Numerical methods, simulations
 
