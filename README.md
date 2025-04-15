@@ -21,7 +21,7 @@ Cloud Computing Applied to IoT for Smart Cities and Intelligent Transportation
 
 LinkedIn: www.linkedin.com/in/joão-pedro-sandrini-milanezi-126b8028a
 
-Email: joaopedrosnd@gmail.com
+Email: joaopedrosnd@gmail.com | joao.milanezi@edu.ufes.br
 
 Feel free to check out my repositories and connect with me!
 <!--
